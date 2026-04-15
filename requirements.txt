@@ -1,0 +1,4 @@
+tqdm==4.66.1
+customtkinter==5.2.2
+darkdetect
+packaging

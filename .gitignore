@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+randomized_output/
+*.exe
+*.spec
+config.json
+ffmpeg
+ffprobe
+ffmpeg.exe
+ffprobe.exe
+build/
+dist/
